@@ -40,3 +40,10 @@ ul {
     }
 }
   /* End Global Rules */
+  /* Start Header */
+header {
+    position: absolute;
+    left: 0;
+    width: 100%;
+    z-index: 2;
+}
