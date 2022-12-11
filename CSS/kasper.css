@@ -80,4 +80,6 @@ header nav ul li a {
     display: block;
     color: white;
     text-decoration: none;
+    font-size: 14px;
+    transition: 0.3s;
 }
