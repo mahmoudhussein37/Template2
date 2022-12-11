@@ -99,6 +99,9 @@ header nav .toggle-menu:hover + ul {
     flex-direction: column;
     position: absolute;
     top: 100%;
+    left: 0;
+    width: 100%;
+    background-color: rgb(0 0 0 / 50%);
 }    
 header nav ul li a {
     padding: 40px 10px;
