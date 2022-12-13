@@ -169,5 +169,6 @@ header nav .form i {
     max-width: 500px;
 } 
 .landing .text .content h2 {
-  
+    font-size: 32px;
+    font-weight: normal;
 }      
