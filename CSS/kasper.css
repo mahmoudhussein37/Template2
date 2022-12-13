@@ -45,6 +45,10 @@ ul {
     }
 }
   /* End Global Rules */
+  /* Start Components */
+.main-heading {
+    
+}
   /* Start Header */
 header {
     position: absolute;
