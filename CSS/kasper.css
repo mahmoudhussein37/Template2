@@ -57,7 +57,8 @@ ul {
     text-transform: uppercase;
 }
 .main-heading h2::before {
-
+    content: "";
+    position: absolute;
 }
   /* Start Header */
 header {
