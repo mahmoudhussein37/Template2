@@ -183,4 +183,7 @@ header nav .form i {
     top: 50%;
     transform: translateY(-50%);
     color: #ddd;
+}
+.landing .fa-angle-left {
+    left: 30px;
 }    
