@@ -144,4 +144,8 @@ header nav .form i {
     background-image: url("../images/landing.jpg");
     background-size: cover;
     position: relative;
+}
+.landing .overlay {
+    position: absolute;
+    left: 0;
 }       
