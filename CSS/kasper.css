@@ -423,3 +423,6 @@ header nav .form i {
     font-weight: normal;
     margin-bottom: 10px;
 }
+.portfolio .imgs-container .box .caption p {
+    color: var(--main-color);
+}
