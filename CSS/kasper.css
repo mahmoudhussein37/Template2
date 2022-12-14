@@ -574,4 +574,7 @@ header nav .form i {
     .our-skills .container > div {
       flex-basis: 45%;
     }
-}    
+} 
+.our-skills .container > div > h3 {
+ 
+}   
