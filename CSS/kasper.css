@@ -351,3 +351,6 @@ header nav .form i {
 .design .text ul li {
     padding: 15px 0;
 }
+.design .text ul li::before {
+   
+}
