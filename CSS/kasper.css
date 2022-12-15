@@ -751,5 +751,6 @@ header nav .form i {
     position: relative;
 }
 .pricing .plans .plan ul li:not(:last-child)::after {
-    
+    content: "";
+    width: 140px;
 }
