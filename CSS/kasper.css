@@ -792,4 +792,7 @@ header nav .form i {
     position: relative;
     color: white;
 }
+.subscribe::before {
+    
+}
   
