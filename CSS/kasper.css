@@ -712,5 +712,6 @@ header nav .form i {
     gap: 30px;
 }
 .pricing .plans .plan {
-   
+    background-color: #fcfcfc;
+    text-align: center;
 }
