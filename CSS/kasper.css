@@ -844,3 +844,6 @@ header nav .form i {
 .subscribe form input[type="submit"]:focus {
   outline: none;
 }
+.subscribe form ::placeholder {
+    color: white;
+}
