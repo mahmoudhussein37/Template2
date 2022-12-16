@@ -888,6 +888,7 @@ header nav .form i {
     height: 200px;
 }
 .contact .content form input[type="submit"] {
-   
+    background-color: var(--main-color);
+    color: white;
 }
     
